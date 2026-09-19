@@ -2,10 +2,9 @@
   "namespace": "BucketOfJames",
   "name": "ItemInfoDisplayRevamp",
   "description": "Displays item information.",
-  "version_number": "1.0.0",
+  "version_number": "1.0.1",
   "dependencies": [
     "BepInEx-BepInExPack_PEAK-5.4.2403"
   ],
-  "website_url": "https://github.com/BucketOfJames/ItemInfoDisplayRevamp",
-  "FullName": "bucketofjames-ItemInfoDisplay"
+  "website_url": "https://github.com/BucketOfJames/ItemInfoDisplayRevamp"
 }

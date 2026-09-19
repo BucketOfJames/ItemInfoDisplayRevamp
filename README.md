@@ -29,13 +29,13 @@ Configurable:
 - Line Spacing
 - Size Delta X (suboptimal workaround to move the text horizontally)
 - Force Update Time
-
+---
 \+ some info fixes.
 ## Quick FAQ
 
 > Why did I translate the CN fork of the mod instead of forking the original ItemInfoDisplay?
 
-Simple: the original-original mod was abandoned a whole YEAR ago and has never been updated since. The CN fork has kept up with the balance changes, added new items, and added additional notes to items. Redoing all of that from scratch would be a HUGE amount of work; forking the CN fork means I only need to translate it into English.
+Simple: the original-original mod was deprecated a whole YEAR ago and has never been updated since. The CN fork has kept up with the balance changes, added new items, and added additional notes to items. Redoing all of that from scratch would be a HUGE amount of work; forking the CN fork means I only need to translate it into English.
 > Am I Chinese, or do I speak Chinese? Did I translate it myself?
 
 No, I used translation tools.
